@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "codi-tutor",
   "version": "0.1.0",
   "private": true,
@@ -9,12 +8,7 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.13.6",
     "cors": "^2.8.6",
-    "dotenv": "^17.3.1",
-    "express": "^5.2.1",
-    "openai": "^6.27.0",
-    "prismjs": "^1.30.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-markdown": "^10.1.0",
@@ -45,21 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "name": "remoteapp",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "cors": "^2.8.6",
-    "dotenv": "^17.3.1",
-    "express": "^5.2.1"
->>>>>>> c6f6fec5b87cd394e2b7ee64de1e543265e0ea27
   }
 }
